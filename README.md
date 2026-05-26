@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>Tecnologias usadas:</b><br>
-  <img src="https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white" alt="PHP 8.x">
-  <img src="https://img.shields.io/badge/Laravel-10-FF2D20?logo=laravel&logoColor=white" alt="Laravel 10">
+  <img src="https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white" alt="PHP 8.2x">
+  <img src="https://img.shields.io/badge/Laravel-10-FF2D20?logo=laravel&logoColor=white" alt="Laravel 12">
   <img src="https://img.shields.io/badge/JavaScript-ES2021-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/HTML5-5ED8FF?logo=html5&logoColor=white" alt="HTML5">
@@ -19,7 +19,6 @@ e frontend com TailwindCSS + Vite.
 Este README descreve a estrutura do projeto, funcionalidades e os passos para baixar, configurar
 e rodar a aplicação localmente no Windows (XAMPP ou PHP built-in).
 
-> Feito por Henry Domingues
 
 ## Principais funcionalidades
 
